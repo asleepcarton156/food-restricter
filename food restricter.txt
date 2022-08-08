@@ -1,0 +1,18 @@
+----------------------Problem----------------------
+
+On average, a number of 200,000 people die every year because of over eating or extreme fat
+
+---------------------Solution----------------------
+Nowadays, people are just tired of working or just don't want to get out of their comfy homes
+and just get the dilevery boys get their job done, and even if some of them are 100 meters 
+away from markets they just don't want to go, even they just don't want to cook food for 
+themselves, so, the main root of this is the online dilevery apps, no, we can't force stop 
+them, we just have to do something like a restriction on the amount of the food we order on 
+the apps, it can be done by a food specialist that makes the diet chart, everytime a person 
+goes on to the app to register themselves or to just oder food, it would keep a track the 
+info of the order on the app everytime and restrict them from ordering a big amount of food
+and that profile would be universal, meaning, that if person A would end up reaching the 
+limit, the app would restruict him from ordering more amount of food and if it goes like 
+hitting the limit in the app A and then gtting app B to order that same food, it would not be 
+that easy, because it's a "universal profile" so he/she can not do it, they will have to wait
+for the timeout end.
